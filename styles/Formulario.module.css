@@ -1,0 +1,24 @@
+.formulario{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.formulario div{
+    display: flex;
+}
+
+.Iniciar{
+    display: flex;
+    flex: 1;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.Iniciar:hover{
+    cursor: pointer;
+}

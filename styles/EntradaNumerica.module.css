@@ -1,0 +1,36 @@
+.entradanumerica{
+    display: flex;
+    flex: 1;
+    color: black;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.text{
+    color: #555;
+    font-size: 1.5rem;
+}
+
+.value{
+    font-size: 3rem;
+}
+
+.botoes{
+    display: flex;
+    flex-direction: row;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 75px;
+    width: 75px;
+    font-size: 50px;
+    margin: 20px;
+    border-radius: 25px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
