@@ -1,3 +1,5 @@
+    
+    Monty Hall
     Projeto feito nos moldes do jogo monnty hall, desenvolvido no curos de next js.
     Jogo feito para dois jogadores na qual um configura o numero de portas e qual porta é a premiada,
 o outro jogador escolhe uma das portas e a cada rodada o jogador que definiu as portas pergunta ao jogador 
